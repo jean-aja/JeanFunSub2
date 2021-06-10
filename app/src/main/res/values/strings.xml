@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">JeanFunSub2</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="no_result">No Data Found</string>
+    <string name="search_user">Search User</string>
+    <string name="text_followers">Followers</string>
+    <string name="example_number">123</string>
+    <string name="noData">-</string>
+
+    <string name="text_repository">Repository</string>
+    <plurals name="repository">
+        <item quantity="zero">Repository</item>
+        <item quantity="one">Repository</item>
+        <item quantity="other">Repositories</item>
+    </plurals>
+
+    <string name="text_following">Following</string>
+    <plurals name="following">
+        <item quantity="other">Following</item>
+    </plurals>
+
+    <plurals name="follower">
+        <item quantity="zero">Follower</item>
+        <item quantity="one">Follower</item>
+        <item quantity="other">Followers</item>
+    </plurals>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

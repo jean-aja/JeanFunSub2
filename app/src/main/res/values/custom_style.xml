@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RoundedSquare">
+        <!-- membuat kotak tidak tajam -->
+        <item name="cornerSize">20%</item>
+    </style>
+    <style name="AgakMembulat">
+        <!-- membuat kotak agak bulat -->
+        <item name="cornerSize">35%</item>
+    </style>
+</resources>
